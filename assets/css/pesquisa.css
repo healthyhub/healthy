@@ -1,0 +1,8 @@
+#resultsList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#resultsList li {
+  color: white;
+}
